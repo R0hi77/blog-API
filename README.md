@@ -1,4 +1,13 @@
  # blog-API
+ 
+ ## How to run this API
+- clone this repo
+- create a python virtual environment
+- Place clone in your virtual environment directory
+- Open the terminal in the directory and run the following command
+- `flask --app api run`
+
+ 
  ## Features
  - API allows user registration and authentication (login)
  - users can perform the following actions create post, view all post, view a single post, update a post and delete post
