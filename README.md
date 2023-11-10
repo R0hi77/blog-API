@@ -11,5 +11,9 @@
 - /comment endpoint
   To allow for interractiviity and user engagement
 
+## User management features
+-Provide users a reset password feature 
+
+
 ## Most important part  of building an API
 The most important part of building an API is security.Ensuring that the optimum authentication and authorization is implemented and sensitive data is encrypted and well protected 
